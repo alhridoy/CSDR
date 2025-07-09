@@ -1,0 +1,5 @@
+[2025-07-09 12:04:10] DEBUG: Debug message
+[2025-07-09 12:04:10] INFO: Info message
+[2025-07-09 12:04:10] WARNING: Warning message
+[2025-07-09 12:04:10] ERROR: Error message
+[2025-07-09 12:04:10] CRITICAL: Critical message
