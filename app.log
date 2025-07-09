@@ -1,0 +1,5 @@
+[2025-07-09 12:08:41] DEBUG - TestApp: Debug message
+[2025-07-09 12:08:41] INFO - TestApp: Info message
+[2025-07-09 12:08:41] WARNING - TestApp: Warning message
+[2025-07-09 12:08:41] ERROR - TestApp: Error message
+[2025-07-09 12:08:41] CRITICAL - TestApp: Critical message
