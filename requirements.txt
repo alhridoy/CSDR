@@ -1,0 +1,2 @@
+# CSDR Compliance Knowledge Graphs and Assistant
+# Basic requirements for hello world functionality
